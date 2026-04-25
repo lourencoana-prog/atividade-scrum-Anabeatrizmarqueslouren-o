@@ -56,7 +56,7 @@ Duração: 2 semans e meia
 2- colocar o filtro por autor/genero
   colocar a barra de pesquisa do lado do login
   mostrar as informções ao lado do livro escolhido
-  3- revisar o gerenciamento de vendas
+  3- revisar o gerenciamento de vendas.
     analisar esse dados, filtar por menos comprados e menos procurados
     excluir do sistema
     
