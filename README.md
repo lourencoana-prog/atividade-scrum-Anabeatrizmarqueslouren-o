@@ -5,18 +5,20 @@ Definição do projeto:
 ficara responsavel pelo login/cadastro dos usuarios do sistema , fará a gestão do estoque de vendas, das formas de pagamento,
 ele tambem terá a pagina de produto ( dos livros) com promoções, avaliação dos ususarios e etc.
 Scrum:
-Product Owner: irei entrevistar o cliente para saber suas ideias sobre o projeto, conversar como ele gostaria do sistema dele, trocar ideias,
-Scrum Master: irei supervisionar o sistema, ver como ele está, se está rodando, ver se tem algum problema para tentar resolver,
+Product Owner: irei entrevistar o cliente para saber suas ideias sobre o projeto, conversar como ele gostaria do sistema dele, trocar ideias.
+
+Scrum Master: irei supervisionar o sistema, ver como ele está, se está rodando, ver se tem algum problema para tentar resolver.
+
  Time de Desenvolvimento: aqui é colocar a mão na massa, ou seja, já estarei fazendo o sistema do cliente.
 
 Sprint: Normalmente dura de 1 a 4 semanas, entrega uma parte do projeto com as funcionalidades básicas.
-Sprint Planning: depois da primeira sprint, a equipe faz uma reunião para discutir o que irao fazer na próxima sprint
+Sprint Planning: depois da primeira sprint, a equipe faz uma reunião para discutir o que irao fazer na próxima sprint.
 Daily Scrum: é basicamente uma convenrsa que é todos os dias para saber o a esquipe anda fazendo no projeto.
 Sprint Retrospective: sempre no final e cada sprint tem uma reunião para saber como está o projeto e se tem alguma coisa para melhorar.
 
 Product Backlog: é a lista de oeganização de tudo que o projeto vai precisar, tudo que será feito.
 Sprint Backlog: são tarefas mais detalahdas de uma sprint em especifico.
-Incremento: é a parte do projeto que já está pronta para uso, já fou testada, avaliada... já pode entregar para o cliente
+Incremento: é a parte do projeto que já está pronta para uso, já fou testada, avaliada... já pode entregar para o cliente.
 
  Product Backlog (Scrum - Parte 2):
  cadastrar os livros no sistema
